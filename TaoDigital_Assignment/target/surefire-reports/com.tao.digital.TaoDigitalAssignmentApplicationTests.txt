@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tao.digital.TaoDigitalAssignmentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.153 s - in com.tao.digital.TaoDigitalAssignmentApplicationTests
